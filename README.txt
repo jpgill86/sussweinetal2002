@@ -1,5 +1,6 @@
-NEURON Reconstruction of Susswein et al. 2002
-=============================================
+================================================================================
+               - NEURON Reconstruction of Susswein et al. 2002 -
+================================================================================
 
 Susswein et al. 2002 present a conductance-based model of B63 and B31/B32,
 interneurons found in the buccal ganglia of the marine mollusk Aplysia
@@ -11,6 +12,9 @@ here in NEURON.
 Created by:
    Jeffrey P Gill (jeff.gill@case.edu)
    Shang-Shen Yu
+
+This project is available at:
+   http://github.com/jpg18/sussweinetal2002/
 
 Original model:
    Susswein AJ, Hurwitz I, Thorne R, Byrne JH, and Baxter DA. 2002.
